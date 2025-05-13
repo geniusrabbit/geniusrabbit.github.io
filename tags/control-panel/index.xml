@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Control-Panel on Geniusrabbit AdDev team</title><link>https://geniusrabbit.com/tags/control-panel/</link><description>Recent content in Control-Panel on Geniusrabbit AdDev team</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geniusrabbit.com/tags/control-panel/index.xml" rel="self" type="application/rss+xml"/><item><title>Control Panel for Open SSP Server — Basic Version in Development</title><link>https://geniusrabbit.com/p/12.24-control-panel-basic/</link><pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate><guid>https://geniusrabbit.com/p/12.24-control-panel-basic/</guid><description>&lt;img src="https://geniusrabbit.com/p/12.24-control-panel-basic/cover.png" alt="Featured image of post Control Panel for Open SSP Server — Basic Version in Development" />&lt;p>We’re excited to announce that development is underway on the &lt;strong>Control Panel for Open SSP Server&lt;/strong> — a powerful interface for managing the key components of your advertising infrastructure.&lt;/p>
+&lt;h3 id="whats-available-now">What’s Available Now
+&lt;/h3>&lt;p>The &lt;strong>basic version of the control panel&lt;/strong> already allows management of critical elements in your SSP stack:&lt;/p>
+&lt;ul>
+&lt;li>🛰 &lt;strong>RTB Sources&lt;/strong> — configure and manage real-time bidding endpoints&lt;/li>
+&lt;li>🌍 &lt;strong>Websites&lt;/strong> — manage publisher sites and associated metadata&lt;/li>
+&lt;li>🎯 &lt;strong>Ad Spots&lt;/strong> — define and edit placement rules and formats&lt;/li>
+&lt;li>⚙️ &lt;strong>System Settings&lt;/strong> — set core options for your traffic and logic handling&lt;/li>
+&lt;/ul>
+&lt;p>This foundational layer enables essential operations and integration without needing direct access to APIs or databases.&lt;/p>
+&lt;p>&lt;img src="https://geniusrabbit.com/p/12.24-control-panel-basic/rtb-list.png"
+width="2342"
+height="918"
+srcset="https://geniusrabbit.com/p/12.24-control-panel-basic/rtb-list_hu9c048473c16f0a39d37a99e343963f23_183257_480x0_resize_box_3.png 480w, https://geniusrabbit.com/p/12.24-control-panel-basic/rtb-list_hu9c048473c16f0a39d37a99e343963f23_183257_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="RTB Sources List"
+class="gallery-image"
+data-flex-grow="255"
+data-flex-basis="612px"
+>&lt;/p>
+&lt;h3 id="what-were-working-on">What We’re Working On
+&lt;/h3>&lt;p>Our next goals are focused on improving usability and expanding functionality:&lt;/p>
+&lt;ul>
+&lt;li>🚦 &lt;strong>Advanced Traffic Routing&lt;/strong> — build smart rules to direct traffic between partners&lt;/li>
+&lt;li>📊 &lt;strong>Statistics &amp;amp; Reporting&lt;/strong> — get insights into request flow and monetization&lt;/li>
+&lt;li>🧩 &lt;strong>Better Form Structures&lt;/strong> — simplified and dynamic UI/UX for data input and editing&lt;/li>
+&lt;li>🛠 &lt;strong>Extended Entity Support&lt;/strong> — support for additional SSP components and targeting layers&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://geniusrabbit.com/p/12.24-control-panel-basic/rtb-edit.png"
+width="3070"
+height="2000"
+srcset="https://geniusrabbit.com/p/12.24-control-panel-basic/rtb-edit_hu278cafb94f1f0af4fae4cb9460f5fd79_514905_480x0_resize_box_3.png 480w, https://geniusrabbit.com/p/12.24-control-panel-basic/rtb-edit_hu278cafb94f1f0af4fae4cb9460f5fd79_514905_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="RTB Edit Form"
+class="gallery-image"
+data-flex-grow="153"
+data-flex-basis="368px"
+>&lt;/p>
+&lt;hr>
+&lt;p>We are committed to building an intuitive, reliable, and developer-friendly interface to help teams get the most out of their Open SSP infrastructure.&lt;/p>
+&lt;p>Stay tuned — more updates are coming soon.&lt;/p></description></item></channel></rss>

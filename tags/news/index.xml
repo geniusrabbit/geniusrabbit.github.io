@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News on Geniusrabbit AdDev team</title><link>https://geniusrabbit.com/tags/news/</link><description>Recent content in News on Geniusrabbit AdDev team</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geniusrabbit.com/tags/news/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing Our Ambitious New Technology Development Team for Advertising Systems</title><link>https://geniusrabbit.com/p/greetings/</link><pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate><guid>https://geniusrabbit.com/p/greetings/</guid><description>&lt;img src="https://geniusrabbit.com/p/greetings/cover2.jpg" alt="Featured image of post Introducing Our Ambitious New Technology Development Team for Advertising Systems" />&lt;p>We are excited to introduce our newly formed technology development team, assembled post-2021, brimming with ambition and numerous plans for the future. Our dedicated team is committed to creating innovative solutions in both open-source and commercial advertising systems.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News on Geniusrabbit AdDev team</title><link>https://geniusrabbit.com/tags/news/</link><description>Recent content in News on Geniusrabbit AdDev team</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://geniusrabbit.com/tags/news/index.xml" rel="self" type="application/rss+xml"/><item><title>Meet the Open SSP Server Team at TES Conference in Seville</title><link>https://geniusrabbit.com/p/12.24-tes-seville/</link><pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate><guid>https://geniusrabbit.com/p/12.24-tes-seville/</guid><description>&lt;img src="https://geniusrabbit.com/p/12.24-tes-seville/cover.png" alt="Featured image of post Meet the Open SSP Server Team at TES Conference in Seville" />&lt;p>🌍 The &lt;strong>Open SSP Server&lt;/strong> team is attending the &lt;strong>TES Affiliate Conference&lt;/strong> in &lt;strong>Seville&lt;/strong> this year — and we’re looking forward to connecting with partners, clients, and innovators in the performance marketing space.&lt;/p>
+&lt;h3 id="why-meet-us-at-tes">Why Meet Us at TES?
+&lt;/h3>&lt;p>We’re building a powerful and flexible &lt;strong>Server-Side Platform (SSP)&lt;/strong> tailored for today’s evolving programmatic advertising market. Our focus is on:&lt;/p>
+&lt;ul>
+&lt;li>🔄 &lt;strong>Real-Time Bidding (RTB)&lt;/strong> infrastructure that enables high-speed, transparent, and configurable monetization pipelines&lt;/li>
+&lt;li>🧩 A fully customizable ecosystem with pluggable components for traffic filtering, targeting, and analytics&lt;/li>
+&lt;li>📊 A new &lt;strong>control panel&lt;/strong> for managing websites, RTB sources, ad spots, and routing logic — all in real-time&lt;/li>
+&lt;/ul>
+&lt;p>Whether you&amp;rsquo;re a &lt;strong>publisher&lt;/strong>, &lt;strong>DSP&lt;/strong>, &lt;strong>ad network&lt;/strong>, or &lt;strong>traffic aggregator&lt;/strong>, our platform can support your business with scalable architecture and deep customization capabilities.&lt;/p>
+&lt;h3 id="what-is-open-ssp-server">What is Open SSP Server?
+&lt;/h3>&lt;p>Open SSP Server is a lightweight and extensible RTB platform designed to simplify the way traffic is monetized. It includes:&lt;/p>
+&lt;ul>
+&lt;li>A robust RTB request/response handler&lt;/li>
+&lt;li>Flexible traffic routing logic&lt;/li>
+&lt;li>Integration-ready APIs and event streams&lt;/li>
+&lt;li>Real-time stats and performance insights (in progress)&lt;/li>
+&lt;li>A clean, intuitive control panel (now in early access)&lt;/li>
+&lt;/ul>
+&lt;p>The system is ideal for teams looking to take control over their ad tech stack, reduce dependency on third-party black boxes, and build proprietary optimization strategies.&lt;/p>
+&lt;h3 id="lets-talk-collaboration">Let’s Talk Collaboration
+&lt;/h3>&lt;p>We’re currently looking to partner with:&lt;/p>
+&lt;ul>
+&lt;li>RTB demand partners and DSPs&lt;/li>
+&lt;li>Publishers and traffic resellers&lt;/li>
+&lt;li>Technology providers in analytics, fraud detection, and optimization&lt;/li>
+&lt;li>Agencies and platforms seeking infrastructure independence&lt;/li>
+&lt;/ul>
+&lt;p>Whether you want to integrate with our bidding ecosystem, run your own instance of the server, or build something custom on top — we’re open to dialogue.&lt;/p>
+&lt;p>📅 &lt;strong>TES in Seville is a great chance to meet face-to-face.&lt;/strong>&lt;/p>
+&lt;p>📩 Drop us a message in advance to book a time, or just find us at the event — we’ll be happy to demo the platform and explore how we can work together.&lt;/p>
+&lt;p>&lt;strong>See you in Seville!&lt;/strong>&lt;/p></description></item><item><title>Control Panel for Open SSP Server — Basic Version in Development</title><link>https://geniusrabbit.com/p/12.24-control-panel-basic/</link><pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate><guid>https://geniusrabbit.com/p/12.24-control-panel-basic/</guid><description>&lt;img src="https://geniusrabbit.com/p/12.24-control-panel-basic/cover.png" alt="Featured image of post Control Panel for Open SSP Server — Basic Version in Development" />&lt;p>We’re excited to announce that development is underway on the &lt;strong>Control Panel for Open SSP Server&lt;/strong> — a powerful interface for managing the key components of your advertising infrastructure.&lt;/p>
+&lt;h3 id="whats-available-now">What’s Available Now
+&lt;/h3>&lt;p>The &lt;strong>basic version of the control panel&lt;/strong> already allows management of critical elements in your SSP stack:&lt;/p>
+&lt;ul>
+&lt;li>🛰 &lt;strong>RTB Sources&lt;/strong> — configure and manage real-time bidding endpoints&lt;/li>
+&lt;li>🌍 &lt;strong>Websites&lt;/strong> — manage publisher sites and associated metadata&lt;/li>
+&lt;li>🎯 &lt;strong>Ad Spots&lt;/strong> — define and edit placement rules and formats&lt;/li>
+&lt;li>⚙️ &lt;strong>System Settings&lt;/strong> — set core options for your traffic and logic handling&lt;/li>
+&lt;/ul>
+&lt;p>This foundational layer enables essential operations and integration without needing direct access to APIs or databases.&lt;/p>
+&lt;p>&lt;img src="https://geniusrabbit.com/p/12.24-control-panel-basic/rtb-list.png"
+width="2342"
+height="918"
+srcset="https://geniusrabbit.com/p/12.24-control-panel-basic/rtb-list_hu9c048473c16f0a39d37a99e343963f23_183257_480x0_resize_box_3.png 480w, https://geniusrabbit.com/p/12.24-control-panel-basic/rtb-list_hu9c048473c16f0a39d37a99e343963f23_183257_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="RTB Sources List"
+class="gallery-image"
+data-flex-grow="255"
+data-flex-basis="612px"
+>&lt;/p>
+&lt;h3 id="what-were-working-on">What We’re Working On
+&lt;/h3>&lt;p>Our next goals are focused on improving usability and expanding functionality:&lt;/p>
+&lt;ul>
+&lt;li>🚦 &lt;strong>Advanced Traffic Routing&lt;/strong> — build smart rules to direct traffic between partners&lt;/li>
+&lt;li>📊 &lt;strong>Statistics &amp;amp; Reporting&lt;/strong> — get insights into request flow and monetization&lt;/li>
+&lt;li>🧩 &lt;strong>Better Form Structures&lt;/strong> — simplified and dynamic UI/UX for data input and editing&lt;/li>
+&lt;li>🛠 &lt;strong>Extended Entity Support&lt;/strong> — support for additional SSP components and targeting layers&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://geniusrabbit.com/p/12.24-control-panel-basic/rtb-edit.png"
+width="3070"
+height="2000"
+srcset="https://geniusrabbit.com/p/12.24-control-panel-basic/rtb-edit_hu278cafb94f1f0af4fae4cb9460f5fd79_514905_480x0_resize_box_3.png 480w, https://geniusrabbit.com/p/12.24-control-panel-basic/rtb-edit_hu278cafb94f1f0af4fae4cb9460f5fd79_514905_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="RTB Edit Form"
+class="gallery-image"
+data-flex-grow="153"
+data-flex-basis="368px"
+>&lt;/p>
+&lt;hr>
+&lt;p>We are committed to building an intuitive, reliable, and developer-friendly interface to help teams get the most out of their Open SSP infrastructure.&lt;/p>
+&lt;p>Stay tuned — more updates are coming soon.&lt;/p></description></item><item><title>Introducing Our Ambitious New Technology Development Team for Advertising Systems</title><link>https://geniusrabbit.com/p/greetings/</link><pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate><guid>https://geniusrabbit.com/p/greetings/</guid><description>&lt;img src="https://geniusrabbit.com/p/greetings/cover2.jpg" alt="Featured image of post Introducing Our Ambitious New Technology Development Team for Advertising Systems" />&lt;p>We are excited to introduce our newly formed technology development team, assembled post-2021, brimming with ambition and numerous plans for the future. Our dedicated team is committed to creating innovative solutions in both open-source and commercial advertising systems.&lt;/p>
 &lt;p>Stay tuned for insightful articles and announcements showcasing our journey, breakthroughs, and the latest developments in the world of advertising technology. Join us as we revolutionize the industry with cutting-edge technologies and visionary ideas.&lt;/p>
 &lt;p>Welcome to a new era of advertising innovation!&lt;/p></description></item><item><title>Open-source SSP Server: Maximize Revenue with Seamless Ad Integration</title><link>https://geniusrabbit.com/p/sspserver.org/</link><pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate><guid>https://geniusrabbit.com/p/sspserver.org/</guid><description>&lt;img src="https://geniusrabbit.com/p/sspserver.org/cover.jpg" alt="Featured image of post Open-source SSP Server: Maximize Revenue with Seamless Ad Integration" />&lt;h2 id="announcing-the-release-of-open-source-ssp-server">Announcing the Release of Open-source SSP Server
 &lt;/h2>&lt;p>We are thrilled to announce the release of our open-source SSP Server, a comprehensive monetization platform designed to seamlessly integrate with websites, apps, and software projects. Visit &lt;a class="link" href="https://sspserver.org" target="_blank" rel="noopener"
