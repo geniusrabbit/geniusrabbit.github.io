@@ -1,9 +1,11 @@
+HUGO_URI := -tags extended,withdeploy github.com/gohugoio/hugo@v0.128
+
 .GODEPS:
-	go install -tags extended github.com/gohugoio/hugo@latest
+	go install ${HUGO_URI}
 
 .PHONY: build
-build: .GODEPS ## Build application
-	hugo --minify
+build: #.GODEPS ## Build application
+	CGO_ENABLED=1 go run ${HUGO_URI} --minify
 	echo "geniusrabbit.com" > public/CNAME
 
 .PHONY: tidy
@@ -12,7 +14,7 @@ tidy: ## Tidy up dependencies
 
 .PHONY: run
 run: ## Run application
-	hugo server --disableFastRender
+	go run ${HUGO_URI} server --disableFastRender
 
 .PHONY: help
 help:

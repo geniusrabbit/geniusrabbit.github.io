@@ -21,7 +21,7 @@ subtitle = "An adtech team placement"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/avatar2.png"
 
 [article]
 headingAnchor = false
